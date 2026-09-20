@@ -1,0 +1,6 @@
+{
+  "name": "Electrona",
+  "description": "Elite sports performance technology platform and scientifically engineered 3-in-1 hydration system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
